@@ -43,9 +43,9 @@ Formação teórica e prática validada por instituições de referência mundia
 
 ### 📂 Projetos em Destaque
 
-* 🔍 **[Fraud Detection Project](https://github.com/samuelpndx/fraud_detection_project):** Desenvolvimento de models de Machine Learning focados na identificação e mitigação de risco e fraudes.
-* 📝 **[BR Autocorrect](https://github.com/samuelpndx/br_autocorrect):** Aplicação de técnicas de Processamento de Linguagem Natural (NLP) para correção textual.
-* ⚖️ **[Imbalanced Learn Tests](https://github.com/samuelpndx/imbalanced-learn-tests):** Experimentações estruturadas e tratamento de conjuntos de dados desbalanceados.
+* 🔍 **[Fraud Detection Project](https://github.com/samuelpndx/portfolio-projects/tree/master/fraud_detection_project):** Desenvolvimento de models de Machine Learning focados na identificação e mitigação de risco e fraudes.
+* 📝 **[BR Autocorrect]([https://github.com/samuelpndx/br_autocorrect](https://github.com/samuelpndx/portfolio-projects/tree/master/br_autocorrect)):** Aplicação de técnicas de Processamento de Linguagem Natural (NLP) para correção textual.
+* ⚖️ **[Imbalanced Learn Tests]([https://github.com/samuelpndx/imbalanced-learn-tests](https://github.com/samuelpndx/utils/tree/master/imbalanced-learn-tests)):** Experimentações estruturadas e tratamento de conjuntos de dados desbalanceados.
 
 ---
 
