@@ -35,7 +35,6 @@ Formação teórica e prática validada por instituições de referência mundia
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 **Áreas de Atuação:**
 `Machine Learning` | `Deep Learning (LSTM, CNNs)` | `NLP` | `Análise de Dados` | `Modelagem Preditiva`
@@ -55,4 +54,3 @@ Formação teórica e prática validada por instituições de referência mundia
 📍 Santarém, PA - Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelpndx)
-[![GitHub](
