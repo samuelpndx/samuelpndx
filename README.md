@@ -1,5 +1,3 @@
-# Olá! Eu sou o Samuel Alves de Souza 👋
-
 ### 📊 Cientista de Dados | Especialista em Inteligência Artificial & Machine Learning
 
 Sou um profissional dinâmico e focado em resolver problemas através de soluções baseadas em Inteligência Artificial, modelagem preditiva e análise exploratória. 
